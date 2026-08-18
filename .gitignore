@@ -1,0 +1,17 @@
+# Node/JavaScript
+node_modules/
+.npm/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS generated files (You are on Windows, so this keeps it clean)
+Thumbs.db
+desktop.ini
+
+# Environment variables (Crucial for Rule 8!)
+.env
